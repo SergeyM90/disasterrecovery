@@ -12,6 +12,7 @@
 
 Получившаяся схема pkt:  
 https://github.com/SergeyM90/disasterrecovery/blob/main/hsrp.pkt
+hsrp.pkt
 
 
 
