@@ -59,5 +59,4 @@ CentOS 7, Keepalived v1.3.5, nginx/1.20.1
 
 https://github.com/SergeyM90/disasterrecovery/blob/main/check.sh
 https://github.com/SergeyM90/disasterrecovery/blob/main/check.sh
-check.sh
-
+check.sh https://github.com/SergeyM90/disasterrecovery/blob/main/check.sh
